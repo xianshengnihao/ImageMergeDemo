@@ -1,0 +1,116 @@
+temp_1:
+  size:
+    w: 2480
+    h: 3507
+  transSeqNo:
+    x: 487
+    y: 88
+  businessType:
+    x: 428
+    y: 191
+  businessTime:
+    x: 1826
+    y: 191
+  IDType:
+    x: 615
+    y: 409
+  userName:
+    x: 406
+    y: 1234
+  birthDate:
+    year:
+      x: 405
+      y: 1332
+    month:
+      x: 711
+      y: 1333
+    day: 
+      x: 915
+      y: 1333
+  IDNo:
+    x: 509
+    y: 1432
+  issueOffice:
+    x: 1683
+    y: 1236
+  expireDate:
+    x: 1683
+    y: 1338
+  photoCompareID:
+    x: 1992
+    y: 2733
+  photoCompareOnline:
+    x: 1992
+    y: 2835
+  transChnl:
+    x: 543
+    y: 3146
+  businesResult:
+    x: 1857
+    y: 3145
+  authenChnl:
+    x: 543
+    y: 3247
+  authenResult:
+    x: 1857
+    y: 3247
+  userAddr:
+    x: 543
+    y: 3348
+  IDFront:
+    x: 316
+    y: 535
+    w: 692
+    h: 440
+  IDObverse:
+    x: 1480
+    y: 540
+    w: 692
+    h: 440
+  retiImage:
+    x: 316
+    y: 1705
+    w: 692
+    h: 440
+  siteCollect:
+    x: 333
+    y: 2474
+    w: 354
+    h: 454
+  IDCollect:
+    x: 798
+    y: 2474
+    w: 354
+    h: 454
+temp_2:
+  size:
+    w: 2480
+    h: 3507
+  oneLevelID:
+    x: 541
+    y: 1160
+  twoLevelID:
+    x: 541
+    y: 1292
+  openAccountTime:
+    x: 482
+    y: 1424
+  userProfess:
+    x: 482
+    y: 1552
+  bankCardFront:
+    x: 315
+    y: 465
+    w: 692
+    h: 440
+  userSigna:
+    x: 1556
+    y: 1190
+    w: 585
+    h: 365
+
+
+
+
+
+
